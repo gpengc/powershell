@@ -1,0 +1,1 @@
+d:\powershell\mypowershell\get.exe>getpass.txt

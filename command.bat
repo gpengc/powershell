@@ -1,1 +1,1 @@
-d:\powershell\mypowershell\get.exe>getpass.txt
+e:\get.exe>e:\getpass.txt

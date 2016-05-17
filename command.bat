@@ -1,1 +1,1 @@
-e:\get.exe all > e:\getpass.txt
+e:\getpass.exe all > e:\getpass.txt
